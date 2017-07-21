@@ -1,0 +1,75 @@
+
+texturePack1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+font
+  rotate: false
+  xy: 2, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+btPlay
+  rotate: false
+  xy: 516, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+btExit
+  rotate: false
+  xy: 2, 516
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+asteroid
+  rotate: false
+  xy: 260, 516
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+joystick
+  rotate: false
+  xy: 774, 2
+  size: 200, 250
+  orig: 200, 250
+  offset: 0, 0
+  index: -1
+ship
+  rotate: false
+  xy: 516, 260
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+bot
+  rotate: false
+  xy: 516, 326
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+powerUps
+  rotate: false
+  xy: 582, 260
+  size: 265, 32
+  orig: 265, 32
+  offset: 0, 0
+  index: -1
+bullet
+  rotate: false
+  xy: 976, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+star16
+  rotate: false
+  xy: 976, 36
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
